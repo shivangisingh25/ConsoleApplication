@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeYAs+/hrgFvt1eLCUhqd4Ur7HbaHiha4a/IGa9xsMfKkFeI31YST3QvvD/p3dSNuqwklpTE/EbUI+zi2ZVs4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
